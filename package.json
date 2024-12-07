@@ -1,0 +1,12 @@
+{
+  "name": "cryptojs-service",
+  "version": "1.0.0",
+  "description": "A simple CryptoJS service to encrypt and decrypt messages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
